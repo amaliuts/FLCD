@@ -1,0 +1,9 @@
+﻿  Scanner.cpp
+C:\Users\ami24\OneDrive\Desktop\FLCD\LexicalScanner2\LexicalScanner2\Scanner.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ami24\OneDrive\Desktop\FLCD\LexicalScanner2\LexicalScanner2\Scanner.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ami24\OneDrive\Desktop\FLCD\LexicalScanner2\LexicalScanner2\Scanner.cpp(113,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ami24\OneDrive\Desktop\FLCD\LexicalScanner2\LexicalScanner2\Scanner.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ami24\OneDrive\Desktop\FLCD\LexicalScanner2\LexicalScanner2\Scanner.cpp(154,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ami24\OneDrive\Desktop\FLCD\LexicalScanner2\LexicalScanner2\Scanner.cpp(230,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ami24\OneDrive\Desktop\FLCD\LexicalScanner2\LexicalScanner2\Scanner.cpp(239,20): warning C4018: '<': signed/unsigned mismatch
+  LexicalScanner2.vcxproj -> C:\Users\ami24\OneDrive\Desktop\FLCD\LexicalScanner2\Debug\LexicalScanner2.exe

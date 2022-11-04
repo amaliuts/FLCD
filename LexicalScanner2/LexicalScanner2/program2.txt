@@ -1,0 +1,13 @@
+for all i between 2 and k
+{
+	bool flag = false ;
+	for all j between 2 and i / 2
+	{
+		if ( i % j == 0 )
+		flag = true ;
+		break ;
+23fejbvie
+	}
+	if ( flag == false ) 
+	print i ;
+}
